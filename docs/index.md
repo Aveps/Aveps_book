@@ -4,6 +4,6 @@
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки GitHub Pages</p>
 
-Сайт <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps">Aveps`a</a>
+Сайт <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps сайт">Aveps`a</a>
 <br>
 Сайт <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">о LINUX</a>
