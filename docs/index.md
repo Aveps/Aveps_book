@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 body {
@@ -19,3 +21,4 @@ h1 {
 
 <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">Сайт о LINUX</a>
 </body>
+</html>
