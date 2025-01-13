@@ -2,4 +2,4 @@
 <strong>(C) 2025 Aveps</strong>
 <p>Проба отображения GitHub Pages</p>
 
-<a href=https://stm66.github.io/>Сайт LINUX</a>
+<a class="tooltiplink" href="https://stm66.github.io/" data-title="Visit Example">Сайт о LINUX</a>
