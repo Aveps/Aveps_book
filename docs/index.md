@@ -3,7 +3,7 @@
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки GitHub Pages:</p>
-`#RRGGBB`
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 ** Как использовать разметку:**
 [GitHub Pages](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
