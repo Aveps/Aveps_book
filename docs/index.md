@@ -2,7 +2,7 @@
 
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
-<p>Полезные ссылки GitHub Pages</p>
+<p>Полезные ссылки GitHub Pages:</p>
 
 Сайт <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps сайт">Aveps`a</a>
 <br><br>
