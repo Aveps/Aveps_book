@@ -1,15 +1,5 @@
 <html>
 <head>
-<style>
-body {
-  background-color: linen;
-}
-
-h1 {
-  color: maroon;
-  margin-left: 40px;
-}
-</style>
 </head>
 <link rel="stylesheet" href="https://aveps.github.io/Aveps_book/docs/css/aveps.css">
 
