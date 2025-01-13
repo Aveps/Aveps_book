@@ -4,8 +4,9 @@
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки:</p>
 The background color is `#ffffff` for light mode and `#000000` for dark mode
-`#0969DA`
 <br><br>
+`#0969DA`
+
 ** Как использовать разметку:**
 [GitHub Pages](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
