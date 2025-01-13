@@ -5,6 +5,7 @@
 <p>Полезные ссылки GitHub Pages:</p>
 
 **This is bold text**
+This site was built using [GitHub Pages](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Сайт <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps сайт">Aveps`a</a>
 <br><br>
