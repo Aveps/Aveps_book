@@ -3,8 +3,8 @@
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки GitHub Pages:</p>
-
-**`#RRGGBB` Как использовать разметку:**
+`#RRGGBB`
+** Как использовать разметку:**
 [GitHub Pages](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 Сайт <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps сайт">Aveps`a</a>
