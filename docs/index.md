@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="docs/aveps.css">
+<link rel="stylesheet" href="https://aveps.github.io/Aveps_book/docs/css/aveps.css">
 
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
