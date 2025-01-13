@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/aveps.css">
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Полезные ссылки.](https://myoctocat.com/assets/images/base-octocat.svg)
 <h1>Привет на моём сайте, Aveps</h1>
 `(C) Aveps - 2025`
 <p>Полезные ссылки:</p>
