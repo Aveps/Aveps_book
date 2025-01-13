@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -12,7 +11,7 @@ h1 {
 }
 </style>
 </head>
-!-- <link rel="stylesheet" href="https://aveps.github.io/Aveps_book/docs/css/aveps.css"> -->
+<link rel="stylesheet" href="https://aveps.github.io/Aveps_book/docs/css/aveps.css">
 
 <body>
 <h1>Привет Aveps!!!</h1>
