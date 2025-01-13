@@ -1,5 +1,5 @@
 <link rel="stylesheet" type="text/css" href="css/aveps.css">
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки GitHub Pages</p>
