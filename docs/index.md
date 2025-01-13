@@ -5,4 +5,5 @@
 <p>Полезные ссылки GitHub Pages</p>
 
 <a class="tooltiplink" href="https://aveps.github.io/Aveps_book/aveps.html" data-title="Aveps">aveps.html</a>
+<br>
 <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">Сайт о LINUX</a>
