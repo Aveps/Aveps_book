@@ -1,7 +1,7 @@
 <link rel="stylesheet" type="text/css" href="css/aveps.css">
 
 <h1>Привет Aveps!!!</h1>
-<strong>(C) 2025 </strong>`Aveps`
+<strong>(C) 2025 </strong> `Aveps`
 <p>Полезные ссылки:</p>
 The background color is `#ffffff` for light mode and `#000000` for dark mode
 <br><br>
