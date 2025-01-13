@@ -1,8 +1,11 @@
+<style>
+  .green {
+    color: green;
+    font-weight: 700;
+    font-size: 30px;
+  }
+</style>
 
-<link rel="stylesheet" href="https://aveps.github.io/Aveps_book/docs/css/aveps.css">
-output:
-  html_document:
-    css: "aveps.css"
 <h1>Привет Aveps!!!</h1>
 <strong>(C) 2025 Aveps</strong>
 <p>Полезные ссылки GitHub Pages</p>
