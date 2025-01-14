@@ -14,3 +14,6 @@ The background color is `#ffffff` for light mode and `#000000` for dark mode
 Сайт <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">о LINUX</a>
 <br><br>
 Сайт <a class="tooltiplink" href="https://rifsakha.github.io/" data-title="Риф">Рифа</a>
+
+** МЕТРО (сервер):**
+[GitHub Pages](https://77.37.218.18)
