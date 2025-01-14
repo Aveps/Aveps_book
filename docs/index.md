@@ -3,8 +3,6 @@
 <h1>Привет на  `Aveps-сайте`</h1>
 `(C) Aveps - 2025`
 <p>Полезные ссылки:</p>
-The background color is `#ffffff` for light mode and `#000000` for dark mode
-<br><br>
 
 **Как использовать разметку:**
 [GitHub Pages](https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
