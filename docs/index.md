@@ -9,7 +9,7 @@
 <br><br>
 **Сайт** <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">о LINUX</a>
 <br><br>
-**Сайт** <a class="tooltiplink" href="https://rifsakha.github.io/" data-title="Риф">Рифа</a>
+**Сайт** <a class="tooltiplink" href="https://rifsakha.github.io/glossary" data-title="Риф">Рифа</a>
 
 > **МЕТРО (сервер):**
 <a class="tooltiplink" href="https://77.37.218.18" data-title="Тестовый PHP">Anri test</a>
