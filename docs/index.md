@@ -10,6 +10,6 @@
 **Сайт** <a class="tooltiplink" href="https://stm66.github.io/" data-title="Михаил stm66">о LINUX</a>
 <br><br>
 **Сайт** <a class="tooltiplink" href="https://rifsakha.github.io/glossar" data-title="Риф">Рифа</a>
-**Сайт** <a class="tooltiplink" href="https://html5beginner.github.io/css/css_tutorial.html" data-title="Риф">HTML5_Beginner</a>
+**Сайт** <a class="tooltiplink" href="https://html5beginner.github.io/css/css_tutorial.html" data-title="HTML5_Beginner">HTML5_Beginner</a>
 > **МЕТРО (сервер):**
 <a class="tooltiplink" href="https://77.37.218.18" data-title="Тестовый PHP">Anri test</a>
